@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://asaixahgha.liuxing.info/sitemap.xml
